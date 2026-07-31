@@ -1,0 +1,11 @@
+# The Gadget Galley
+
+> The Gadget Galley curates and tests clever kitchen gadgets, small-space organization tools and home-cooking gear. Every roundup is hand-picked; product links are Amazon affiliate links.
+
+## Roundups
+- [Storage Solutions](https://thegadgetgalley.com/roundups/storage-solutions.html): tested storage solutions picks for home cooks.
+- [Outdoor Cooking Gear](https://thegadgetgalley.com/roundups/outdoor-cooking-gear.html): tested outdoor cooking gear picks for home cooks.
+- [Effortless Prep Tools](https://thegadgetgalley.com/roundups/effortless-prep-tools.html): tested effortless prep tools picks for home cooks.
+
+## About
+- [About The Gadget Galley](https://thegadgetgalley.com/about.html): who we are and how we pick products.
